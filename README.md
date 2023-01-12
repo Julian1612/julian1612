@@ -1,3 +1,1 @@
-### Hi there 👋
-
-Learning to code @ 42 Heilbronn
+Student @ 42 Heilbronn
