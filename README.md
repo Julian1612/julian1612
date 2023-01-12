@@ -1,1 +1,1 @@
-Student @ 42 Heilbronn
+Student @42Heilbronn
