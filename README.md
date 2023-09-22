@@ -6,4 +6,5 @@ My Interests:
 - Mechanical engineering
 - Automation
 
+Contect me:
 [LinkedIn](https://www.linkedin.com/in/julian-schneider-519620203)
