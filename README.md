@@ -8,7 +8,6 @@ I'm interested in:
 - Mechanical engineering
 - Automation
 - Internet of Things
-- Industrial Automation
 - Robotics
 
 Contect me @[LinkedIn](https://www.linkedin.com/in/julian-schneider-519620203)
