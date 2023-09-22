@@ -2,9 +2,13 @@ With a background in mechatronics, I'm currently pursuing a software development
 where I'm diving into C, C++ and Python.
 
 My Interests:
-- Problem-solving and coding challenges
+- Problem-solving
+- Coding challenges
 - Mechanical engineering
 - Automation
+- Internet of Things
+- Industrial Automation
+- Robotics
 
 Contect me:
 
