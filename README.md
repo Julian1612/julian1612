@@ -1,11 +1,7 @@
 With a background in mechatronics, I'm currently pursuing a software development program at 42 Heilbronn.
 
 I got experice wih: 
-- C
-- C++
-- Bash
-- Python
-- Git
+  C, C++, Bash, Python, Git
 
 I'm interested in:
 - Problem-solving
